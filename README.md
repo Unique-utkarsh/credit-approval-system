@@ -26,6 +26,20 @@ docker compose up --build
 4. Start the Django dev server on http://localhost:8000
 5. Start a Celery worker 
 
+
+
+## API Screenshots
+
+### POST /register
+![Register](screenshots/register.png)
+
+### POST /check-eligibility
+![Check Eligibility](screenshots/check-eligiblity.png)
+
+### POST /create-loan
+![Create Loan](screenshots/create-loan.png)
+
+
 # API Endpoints
 
 ### `POST /register`
