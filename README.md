@@ -34,7 +34,7 @@ docker compose up --build
 ![Register](screenshots/register.png)
 
 ### POST /check-eligibility
-![Check Eligibility](screenshots/check-eligiblity.png)
+![Check Eligibility](screenshots/check-eligibility.png)
 
 ### POST /create-loan
 ![Create Loan](screenshots/create-loan.png)
